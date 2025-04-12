@@ -1,9 +1,9 @@
 const author = "Prince Chauhan";
 const description =
 	"Software developer from India, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
-const url = "";
+const url = "https://www.linkedin.com/in/prince-chauhan-26550b194/";
 export const AppMetadata = {
-	metadataBase: new URL(""),
+	metadataBase: new URL("https://www.linkedin.com/in/prince-chauhan-26550b194/"),
 	title: {
 		default: `Portfolio | ${author}`,
 		template: `%s | ${author}`
