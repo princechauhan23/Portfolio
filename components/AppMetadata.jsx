@@ -1,9 +1,9 @@
 const author = "Prince Chauhan";
 const description =
 	"Software developer from India, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
-const url = "https://www.linkedin.com/in/prince-chauhan-26550b194/";
+const url = "https://prince-next-portfolio.vercel.app/";
 export const AppMetadata = {
-	metadataBase: new URL("https://www.linkedin.com/in/prince-chauhan-26550b194/"),
+	metadataBase: new URL("https://prince-next-portfolio.vercel.app/"),
 	title: {
 		default: `Portfolio | ${author}`,
 		template: `%s | ${author}`
