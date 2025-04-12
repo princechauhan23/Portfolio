@@ -29,13 +29,13 @@ export const AppMetadata = {
 		siteName: `${author} | Portfolio`,
 		images: [
 			{
-				url: "",
+				url: "https://prince-next-portfolio.vercel.app/Prince-portfolio.png",
 				width: 800,
 				height: 600,
 				alt: "My personal portfolio website"
 			},
 			{
-				url: "",
+				url: "https://prince-next-portfolio.vercel.app/Prince-portfolio.png",
 				width: 1800,
 				height: 1600,
 				alt: "My personal portfolio website"
